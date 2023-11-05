@@ -1,1 +1,1 @@
-# sam-vrl.github.io
+# segment-anything-for-generalization.github.io
